@@ -433,4 +433,4 @@ client:on('messageCreate', function(message)
   end
 end)
 
-client:run('Bot ODk3OTMzNDU0MDQ4NjQxMTA3.YWc3sg.73BLbaZ9Uv-Xi4O6SjLGLK8PNW8')
+client:run('Bot ODk3OTMzNDU0MDQ4NjQxMTA3.YWc3sg.-5kpk7yPFecUIqAqgXlbcHP7Kyw')
